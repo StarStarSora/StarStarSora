@@ -1,2 +1,3 @@
 # StarSora
-My personal repository.
+Student major in Computer Science
+love coding 
